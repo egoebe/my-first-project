@@ -1,2 +1,5 @@
 New pracitce file
 FInal change
+ここについては以下のようにした方がいいのではないでしょうか？
+Final　→　Fin
+
