@@ -2,4 +2,6 @@ New pracitce file
 FInal change
 ここについては以下のようにした方がいいのではないでしょうか？
 Final　→　Fin
-
+<<<<<<< HEAD
+=======
+>>>>>>> 2454bb2a937ec3cafd9a4a95c1d99b65b682a8ba
